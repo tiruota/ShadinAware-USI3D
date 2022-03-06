@@ -1,0 +1,16 @@
+scipy
+matplotlib
+torch
+torchvision
+easydict
+tqdm
+visdom
+numpy
+opencv-contrib-python
+opencv-python
+scikit-image
+scikit-learn
+Pillow
+tensorboardX
+pyyaml
+kornia
